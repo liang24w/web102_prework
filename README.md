@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<video src='https://i.imgur.com/IWl92xI.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Imgur](https://i.imgur.com/IWl92xI.mp4)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Windows Snipping Tool & Imgur.  
