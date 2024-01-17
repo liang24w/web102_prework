@@ -1,12 +1,25 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:wght@400;500;600;700&display=swap');
 
+a {
+    text-decoration: none;
+    color:black;
+    margin-right: 10px;
+}
 body {
     font-family: 'Cabin';
     background-color: #758190;
 }
 
+button:hover {
+    cursor: pointer;
+}
+
 #tentacles {
     width: 50px;
+}
+
+h2 {
+    text-align: center;
 }
 
 .header {
@@ -19,8 +32,23 @@ body {
     margin-top: -10px;
 }
 
+.header-nav-text {
+    right: 0;
+    position: absolute;
+}
+
+.header-nav-text:hover {
+    cursor: pointer;
+}
+
 .stats-container {
     display: flex;
+    align-items: center;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
